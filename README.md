@@ -69,7 +69,7 @@ Final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-As final considerations:
+Final considerations:
 
 * Must use the Pandas Library and the Jupyter Notebook.
 * Must submit a link to your Jupyter Notebook with the viewable Data Frames.
