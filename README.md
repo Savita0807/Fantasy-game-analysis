@@ -1,4 +1,4 @@
-# Panda-Challenge
+# Fantasy game analysis-Panda-Challenge
 
 ## Option 1: Heroes of Pymoli
 
